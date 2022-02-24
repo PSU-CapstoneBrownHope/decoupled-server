@@ -4,8 +4,8 @@ Stripped down copy of the backend
 
 ## To run:
   #### create .env file containing
-   ###### API_KEY
-   ###### Base_ID
+   ###### AIRTABLE_API_KEY
+   ###### BASE_ID
   #### node server.js
   
   ## To query:
